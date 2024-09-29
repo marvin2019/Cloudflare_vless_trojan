@@ -23,7 +23,7 @@ let IP8 = 'uicook.hk'
 let IP9 = 'www.ipget.net'
 let IP10 = 'time.is'
 let IP11 = 'www.gco.gov.qa'
-let IP12 = 'singapore.com
+let IP12 = 'singapore.com'
 let IP13 = 'malaysia.com'
 
 // http_port
